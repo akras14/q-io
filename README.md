@@ -13,6 +13,12 @@ Q-IO now subsumes all of [Q-HTTP][] and [Q-FS][].
 The Q-IO package does not export a main module.  You must reach in
 directly for `q-io/fs`, `q-io/http`, and `q-io/http-apps`.
 
+## Instalation
+
+```
+$ npm install q-io
+```
+
 ## Filesystem
 
 ```javascript
